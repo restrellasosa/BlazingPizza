@@ -18,7 +18,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\css\font\" />
-    <Folder Include="wwwroot\css\images\" />
+    <Folder Include="wwwroot\css\images\pizzas\" />
   </ItemGroup>
 
 </Project>
