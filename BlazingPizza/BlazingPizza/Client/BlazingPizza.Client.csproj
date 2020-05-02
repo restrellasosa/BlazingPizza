@@ -16,4 +16,9 @@
     <ProjectReference Include="..\Shared\BlazingPizza.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\css\font\" />
+    <Folder Include="wwwroot\css\images\" />
+  </ItemGroup>
+
 </Project>
